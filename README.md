@@ -2,8 +2,6 @@
 
 A Relay.js example project backed by a GraphQL server on Express.js with data stored in MongoDB
 
-Contributions are welcome!
-
 ## Installing
 
 ```

@@ -5,8 +5,8 @@ A Relay.js example project backed by a GraphQL server on Express.js with data st
 ## Installing
 
 ```
-git clone https://github.com/RGRjs/react-graphql-relay-example.git rgrjs
-cd rgrjs
+git clone https://github.com/swathiraja16/rgrjs-app.git rgr-app
+cd rgr-app
 npm install
 export MONGO_URL=....
 npm start
